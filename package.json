@@ -1,0 +1,38 @@
+{
+  "name": "employeenuxt",
+  "private": "true",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@mdi/font": "^6.9.96",
+    "nuxt": "3.0.0-rc.6"
+  },
+  "dependencies": {
+    "@babel/eslint-parser": "^7.18.2",
+    "@nuxt/babel-preset-app": "^2.15.8",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@pinia/nuxt": "^0.3.0",
+    "@vuelidate/core": "^2.0.0-alpha.42",
+    "@vuelidate/validators": "^2.0.0-alpha.30",
+    "babel-core": "^6.26.3",
+    "cookie": "^0.5.0",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.18.0",
+    "eslint-plugin-nuxt": "^3.2.0",
+    "file-saver": "^2.0.5",
+    "js-cookie": "^3.0.1",
+    "pinia": "^2.0.14",
+    "pinia-plugin-persistedstate-2": "^1.0.0",
+    "sass": "^1.53.0",
+    "vue-moment": "^4.1.0",
+    "vue-the-mask": "^0.11.1",
+    "vue-uuid": "^3.0.0",
+    "vue2-datepicker": "^3.11.0",
+    "vuetify": "3.0.0-beta.5"
+  }
+}
