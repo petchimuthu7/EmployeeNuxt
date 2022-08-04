@@ -1,0 +1,18 @@
+[
+    {
+        "UserId" : "3a32c565-9469-44ef-af90-e97ec649c09d",
+        "UserName" : "Petchimuthu",
+        "Password" : "123123",
+        "Salt" : "",
+        "EmailAddress" : "petchimuthu.p+demo3514we@dotnetethics.com",
+        "MobileNumber" : "(805)078-8505"
+    },
+    {
+        "UserId" : "780ca233-8149-49cb-b075-3e23c5b9e2a6",
+        "UserName" : "Muthu",
+        "Password" : "123123",
+        "Salt" : "",
+        "EmailAddress" : "petchimuthu.p@dotnetethics.com",
+        "MobileNumber" : "(805)078-8505"
+    }
+]
